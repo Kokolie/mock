@@ -1,0 +1,12 @@
+.spacing {
+  margin-right: 2px;
+  margin-left: 2px;
+  margin-bottom: 2px;
+  margin-top: 2px;
+}
+
+.offname { 
+   display:inline-block;
+   min-width:50%;
+   text-align:left;   
+}
